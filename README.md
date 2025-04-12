@@ -1,4 +1,9 @@
 <h1>Hii 👋 I'm Kamlesh Gupta</h1>
+<p>🌐 A passionate Frontend Developer from 🇮🇳 Greater Noida, India</p>
+<p>🎯 Turning designs into pixel-perfect experiences using HTML, CSS, JavaScript, and React.js</p>
+<p>🚀 Currently exploring the depths of Full Stack Development with Node.js and MongoDB</p>
+<p>💡 I love solving problems, building projects, and learning new tech every day</p>
+<p>📈 Always striving to write clean, scalable, and efficient code</p>
 # 💫 About Me:
 I'm Currently Working on Full Stack  Development Project<br>I'm Currently Learning React js and node js 
 
